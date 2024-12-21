@@ -1,0 +1,150 @@
+{
+	"No Putusan": [
+		"PUTUSAN",
+		"Nomor"
+	],
+	"Lembaga Peradilan": [
+		"Pengadilan"
+	],
+	"Identitas Para Pihak": [
+		"Gugatan antara:",
+		"Berikut antara:",
+		"Pengadilan Negeri tersebut",
+		"Dalam perkara gugatan antara:",
+		"Menjatuhkan putusan sebagai berikut antara:"
+
+	],
+	"Tanggal Gugatan": [
+		"Surat gugatan",
+		"surat gugatannya",
+		"Surat gugatan tanggal"
+	],
+	"Perihal Gugatan": [
+		"Tergugat telah melakukan ingkar janji",
+		"Kepada penggugat",
+		"Terhadap penggugat",
+		"Menyatakan tergugat I dan tergugat II telah melakukan",
+		"Tergugat telah melakukan",
+		"Yang merugikan penggugat"
+	],
+	"Pokok Gugatan": [
+		"Gugatan",
+		"Gugatan ingkar janji (wanprestasi) dengan alasan-alasan sebagai berikut :",
+		"Telah mengajukan gugatan sebagai berikut:",
+		"Gugatan ini adalah",
+		"Gugatan ini adalah sebagai berikut"
+	],
+	"Laporan Mediasi": [
+		"Laporan mediator",
+		"Sebagai mediator",
+		"Menimbang, oleh karena itu",
+		"Menimbang, bahwa sebagaimana",
+		"Menimbang, bahwa telah dibacakan",
+		"Sehingga pemeriksaan perkara"
+	],
+	"Rekonvensi": [
+		"Dalam rekonvensi",
+		"Dalam rekonpensi",
+		"Renkonpensi bahwa",
+		"Dalam konvensi pokok perkara",
+		"Dalam eksepsi",
+		"Menimbang, bahwa untuk membuktikan",
+		"Berdasarkan alasan dan fakta-fakta hukum di atas"
+	],
+	"Replik": [
+		"Repliknya tertanggal",
+		"Repliknya terhadap tergugat",
+		"Kemudian kuasa tergugat",
+		"Kemudian para tergugat",
+		"Yang pada pokoknya mempertahankan dalil"
+	],
+	"Duplik": [
+		"Duplik tertanggal",
+		"Duplik pada tanggal",
+		"Menimbang, bahwa untuk mempertahankan dalil",
+		"Menimbang, bahwa untuk meneguhkan dalil",
+		"Yang pada pokoknya mempertahankan dalil-dalil eksepsi"
+	],
+	"Bukti Penggugat": [
+		"Penggugat menyerahkan bukti surat",
+		"Penggugat telah mengajukan surat",
+		"Penggugat telah mengajukan bukti",
+		"Penggugat mengajukan alat bukti surat",
+		"Bukti-bukti surat tersebut kemudian",
+		"Penggugat telah memberitahukan kepada tergugat",
+		"Menimbang, bahwa selain bukti surat",
+		"Menimbang, bahwa disamping bukti surat",
+		"Menimbang, bahwa terhadap bukti surat",
+		"Surat bukti tersebut telah"
+	],
+	"Bukti Tergugat": [
+		"Tergugat dan turut tergugat menyerahkan bukti surat",
+		"Tergugat untuk menguatkan dalil sangkalannya",
+		"Tergugat telah menyerahkan bukti",
+		"Tergugat telah mengajukan bukti",
+		"Bukti surat tersebut kemudian",
+		"Menimbang, bahwa dalam jawabannya tergugat",
+		"Menimbang, bahwa selain bukti surat",
+		"Menimbang, bahwa di persidangan Tergugat",
+		"Menimbang, bahwa terhadap bukti surat",
+		"Surat-surat bukti"
+	],
+	"Alat Bukti Saksi Penggugat": [
+		"Penggugat juga telah mengajukan",
+		"Saksi",
+		"Saksi kepersidangan",
+		"Memberikan keterangan"
+	],
+	"Alat Bukti Saksi Tergugat": [
+		"Kuasa hukum tergugat dan kuasa hukum turut tergugat",
+		"Tergugat telah pula mengajukan alat bukti saksi",
+		"Saksi dipersidangan",
+		"Orang bernama"
+	],
+	"Kesimpulan": [
+		"Kesimpulan",
+		"Di persidangan menyatakan tidak ada hal-hal yang diajukan",
+		"Menimbang, bahwa selanjutnya",
+		"Menimbang, bahwa segala sesuatu",
+		"Menimbang, bahwa akhirnya kedua belah pihak"
+	],
+	"Dalil Yang Dibantah Tergugat": [
+		"Tergugat dan turut tergugat dalam jawabannya",
+		"Tergugat dalam jawabannya",
+		"Tergugat membantah",
+		"Tergugat dalam dalil jawabannya",
+		"Berdasarkan jawabannya tergugat",
+		"Yang menyatakan bahwa",
+		"Mengemukakan dalil-dalil:",
+		"Bahwa tergugat",
+		"Dengan menyatakan",
+		"Mengenai adanya"
+	],
+	"Pertimbangan Alat Bukti Atas Dalil Yang Dibantah": [
+		"Dalil-dalil bantahan yang menyatakan bahwa",
+		"Dengan mengemukakan dalil-dalil",
+		"Dalil yang pada pokoknya sebagai berikut",
+		"Membantah gugatan penggugat dengan menyatakan",
+		"Menimbang, untuk menguatkan",
+		"Menimbang, bahwa"
+	],
+	"Pertimbangan Hukum": [
+		"Tentang pertimbangan hukum",
+		"Tentang hukumnya",
+		"Mengadili:"
+	],
+	"Amar Putusan": [
+		"Mengadili:",
+		"Demikian diputuskan",
+		"M e n g a d i l i I. Dalam konvensi",
+		"Mengadili: dalam eksepsi",
+		"M e n g a d i l i A. Dalam konpensi",
+		"Mengadili: 1. mengabulkan gugatan"
+	],
+	"Penutup": [
+		"Demikian diputuskan",
+		"Perincian biaya"
+	]
+
+
+}
